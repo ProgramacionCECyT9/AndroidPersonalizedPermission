@@ -12,7 +12,7 @@ public class VerVideo extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toast.makeText(this, "Reproduciendo Vídeo", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "R<c<c<", Toast.LENGTH_SHORT).show();
     }
 
 }

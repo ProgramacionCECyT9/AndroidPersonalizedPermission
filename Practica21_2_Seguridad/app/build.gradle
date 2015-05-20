@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "edu.cecyt9.ipn.practica21_seguridad"
+        applicationId "edu.cecyt9.ipn.practica21_2_seguridad"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
